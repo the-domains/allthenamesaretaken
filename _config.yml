@@ -1,7 +1,7 @@
 name: allthenamesaretaken
 favicon: null
-layout_spectrum: 0.6179606867954135
-typography_spectrum: 0.9094963730312884
+layout_spectrum: 1
+typography_spectrum: 0.75
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.18919686344452202
-  lightness: 0.39054611953906715
-  saturation: 0.27043922361917794
-  rhythmicContrast: 0.7040298718493432
+    - '#cfd7da'
+    - '#999a9c'
+    - '#030a10'
+    - '#4f687c'
+    - '#31475e'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
