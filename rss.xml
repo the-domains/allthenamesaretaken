@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[allthenamesaretaken]]></title>
         <description><![CDATA[allthenamesaretaken]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/allthenamesaretaken/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 20:04:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 21:35:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/allthenamesaretaken/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d29462c-1f33-4416-b221-661a146675ef.jpg">]]></description>
+            <link>https://thegrid.ai/allthenamesaretaken/a80672be-f615-455f-a339-848ab4755543/index.html</link>
+            <guid isPermaLink="false">a80672be-f615-455f-a339-848ab4755543</guid>
+            <pubDate>Sat, 05 Mar 2016 21:35:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7059fd9b-f3e5-41e6-81e1-02aae130be07.jpg">]]></description>
-            <link>undefinedaf1e1b8e-eecb-4def-b1d3-e95a3d4b8852/index.html</link>
+            <link>https://thegrid.ai/allthenamesaretaken/af1e1b8e-eecb-4def-b1d3-e95a3d4b8852/index.html</link>
             <guid isPermaLink="false">af1e1b8e-eecb-4def-b1d3-e95a3d4b8852</guid>
             <pubDate>Sat, 05 Mar 2016 20:03:23 GMT</pubDate>
         </item>
